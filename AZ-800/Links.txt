@@ -45,3 +45,8 @@ https://docs.microsoft.com/en-us/azure/active-directory/devices/howto-vm-sign-in
 
 https://docs.microsoft.com/en-us/azure/active-directory-domain-services/tutorial-create-instance-advanced
 
+https://docs.microsoft.com/en-us/azure/active-directory-domain-services/tutorial-create-forest-trust
+
+https://docs.microsoft.com/en-us/azure/active-directory-domain-services/tutorial-create-instance
+
+https://docs.microsoft.com/en-us/azure/active-directory-domain-services/join-windows-vm
