@@ -1,8 +1,9 @@
+Exam AZ-800: Administering Windows Server Hybrid Core Infrastructure
+-------------------
 https://docs.microsoft.com/en-us/learn/certifications/windows-server-hybrid-administrator
 
+Microsoft Learn:
 -------------------
-
-Microsoft Learn
 
 https://docs.microsoft.com/en-us/learn/paths/deploy-manage-identity-infrastructure/
 
@@ -14,17 +15,15 @@ https://docs.microsoft.com/en-us/learn/paths/implement-operate-premises-hybrid/
 
 https://docs.microsoft.com/en-us/learn/paths/configure-storage-file-services/
 
+Thomas Maurer's Study Guide:  
 -------------------
-
-Thomas Maurer's Study Guide:
 https://www.thomasmaurer.ch/2022/03/az-800-exam-study-guide-administering-windows-server-hybrid-core-infrastructure/
 
--------------------
 
 More helpful information directly from Microsoft, divided into the functional groups!
--------------------------------------------------------------------------------------
+-------------------
 
-Deploy and manage Active Directory Domain Services (AD DS) in on-premises and cloud environments:
+**Deploy and manage Active Directory Domain Services (AD DS) in on-premises and cloud environments:**
 
 https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/deploy/install-active-directory-domain-services--level-100-
 
