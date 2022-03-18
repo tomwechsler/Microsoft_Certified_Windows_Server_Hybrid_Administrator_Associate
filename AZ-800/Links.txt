@@ -21,3 +21,17 @@ https://www.thomasmaurer.ch/2022/03/az-800-exam-study-guide-administering-window
 
 -------------------
 
+More Links:
+
+https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/deploy/install-active-directory-domain-services--level-100-?
+
+https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/deploy/install-a-new-windows-server-2012-active-directory-forest--level-200-
+
+https://docs.microsoft.com/de-de/azure/architecture/reference-architectures/identity/adds-extend-domain
+
+https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/identity/adfs
+
+https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/deploy/install-a-new-windows-server-2012-active-directory-child-or-tree-domain--level-200-
+
+https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/deploy/rodc/install-a-windows-server-2012-active-directory-read-only-domain-controller--rodc---level-200-
+
