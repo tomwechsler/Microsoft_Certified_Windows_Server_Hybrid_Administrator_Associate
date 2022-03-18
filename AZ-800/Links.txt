@@ -35,3 +35,13 @@ https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/deploy/install-a-
 
 https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/deploy/rodc/install-a-windows-server-2012-active-directory-read-only-domain-controller--rodc---level-200-
 
+https://docs.microsoft.com/en-us/azure/virtual-wan/virtual-wan-site-to-site-portal
+
+https://docs.microsoft.com/en-us/azure/dns/dns-domain-delegation
+
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-udr-overview
+
+https://docs.microsoft.com/en-us/azure/active-directory/devices/howto-vm-sign-in-azure-ad-windows
+
+https://docs.microsoft.com/en-us/azure/active-directory-domain-services/tutorial-create-instance-advanced
+
