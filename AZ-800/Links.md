@@ -49,7 +49,15 @@ https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server
 
 https://docs.microsoft.com/en-us/windows-server/security/group-managed-service-accounts/group-managed-service-accounts-overview
 
+https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/identity/azure-ad
 
+https://docs.microsoft.com/en-us/azure/active-directory/hybrid/whatis-azure-ad-connect
+
+https://docs.microsoft.com/en-us/azure/active-directory/hybrid/choose-ad-authn
+
+https://docs.microsoft.com/en-us/azure/active-directory-domain-services/password-policy
+
+https://docs.microsoft.com/en-us/azure/active-directory-domain-services/manage-group-policy
 
 Manage Windows Servers and workloads in a hybrid environment:
 
