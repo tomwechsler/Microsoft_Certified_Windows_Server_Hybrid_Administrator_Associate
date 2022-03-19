@@ -2,6 +2,8 @@ Exam AZ-800: Administering Windows Server Hybrid Core Infrastructure
 -------------------
 https://docs.microsoft.com/en-us/learn/certifications/windows-server-hybrid-administrator
 
+https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWKI0r
+
 Microsoft Learn:
 -------------------
 
