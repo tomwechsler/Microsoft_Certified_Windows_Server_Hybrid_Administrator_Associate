@@ -1,4 +1,4 @@
-Exam AZ-800: Administering Windows Server Hybrid Core Infrastructure
+Exam AZ-801: Configuring Windows Server Hybrid Advanced Services
 -------------------
 https://docs.microsoft.com/en-us/learn/certifications/exams/az-801
 
