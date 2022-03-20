@@ -15,3 +15,7 @@ https://docs.microsoft.com/en-us/learn/paths/implement-disaster-recovery-windows
 https://docs.microsoft.com/en-us/learn/paths/migrate-servers-workloads-premises-hybrid-environments/
 
 https://docs.microsoft.com/en-us/learn/paths/monitor-troubleshoot-windows-server-environments/
+
+Thomas Maurer's Study Guide:  
+-------------------
+https://www.thomasmaurer.ch/2022/03/az-801-exam-study-guide-configuring-windows-server-hybrid-advanced-services/
