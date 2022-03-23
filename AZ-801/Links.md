@@ -19,3 +19,6 @@ https://docs.microsoft.com/en-us/learn/paths/monitor-troubleshoot-windows-server
 Thomas Maurer's Study Guide:  
 -------------------
 https://www.thomasmaurer.ch/2022/03/az-801-exam-study-guide-configuring-windows-server-hybrid-advanced-services/
+
+More helpful information directly from Microsoft, divided into the functional groups (Skills measured)!
+-------------------
