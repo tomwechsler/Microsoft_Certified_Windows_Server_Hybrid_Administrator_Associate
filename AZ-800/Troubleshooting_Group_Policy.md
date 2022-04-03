@@ -7,6 +7,10 @@ nslookup domain_name
 ping prime.pri  
 (the domain should be resolved with the IP address of a domain controller)
 
+nltest /query  
+
+nltest /sc_query:tomrocks.local
+
 Using GPRESULT to list applied policies (use the command prompt)
 -----------
 
