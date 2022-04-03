@@ -20,11 +20,14 @@ Generates a very detailed report with user and computer policy settings and save
 Resetting the Default Domain Policy and/or the Default Domain Controller Policy (use the command prompt)
 ---------
 
-dcgpofix /target:Domain to reset the domain GPO.
+dcgpofix /target:Domain  
+to reset the domain GPO.
 
-dcgpofix /target:DC to reset the default DC GPO.
+dcgpofix /target:DC  
+to reset the default DC GPO.
 
-dcgpofix /target:both to reset the domain and default DC GPOs.
+dcgpofix /target:both  
+to reset the domain and default DC GPOs.
 
 
 Although not widely used, problems can occur if you have edited a computer's local security policy. This policy can also be reset to default settings with the following steps:
