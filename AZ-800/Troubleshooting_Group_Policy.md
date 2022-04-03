@@ -18,7 +18,11 @@ dcdiag /s:dc02
 
 dcdiag /e /v (/e Tests all the servers in the enterprise, /v Verbose)
 
+dcdiag /DnsRecordRegistration  
+(Performs the /DnsBasic tests, and also checks if the address (A), canonical name (CNAME) and well-known service (SRV) resource records are registered. In addition, creates an inventory report based on the test results.)
 
+dcdiag /test:sysvolcheck  
+(to check the sysvol health)
     
 Using GPRESULT to list applied policies (use the command prompt).
 -----------
