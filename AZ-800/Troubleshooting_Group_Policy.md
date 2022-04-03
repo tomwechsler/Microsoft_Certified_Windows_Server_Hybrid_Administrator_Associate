@@ -4,7 +4,7 @@ When troubleshooting group policies, do not forget the name resolution (use the 
 nslookup domain_name  
 (for examples nslookup prime.pri)
 
-ping prime.pri 
+ping prime.pri  
 (the domain should be resolved with the IP address of a domain controller)
 
 Using GPRESULT to list applied policies (use the command prompt)
