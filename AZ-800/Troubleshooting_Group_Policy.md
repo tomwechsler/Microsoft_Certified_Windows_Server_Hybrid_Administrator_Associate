@@ -11,6 +11,15 @@ nltest /query
 
 nltest /sc_query:tomrocks.local
 
+**On a domain controller, you can do the following tests:
+
+(dcdiag /s:<DomainController>)  #Specifies the name of the server to run the command against.
+dcdiag /s:dc02
+
+dcdiag /e /v (/e Tests all the servers in the enterprise, /v Verbose)
+
+
+    
 Using GPRESULT to list applied policies (use the command prompt).
 -----------
 
