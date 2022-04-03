@@ -78,3 +78,17 @@ Repadmin /KCC
 Step 6 - Force replication
 
 Repadmin /replicate
+
+Enable Group Policy Client Service (gpsvc) logging (use a command prompt with elevated privileges).
+----------
+
+MD %WinDir%\debug\usermode
+REG add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Diagnostics" /v GPSvcDebugLevel /t REG_DWORD /d 00030002
+
+Afterwards the log file %WinDir%\Debug\Usermode\gpsvc.log is created and can be evaluated for analysis. The log file can be opened manually via the 
+text editor or you can use e.g. cmtrace from the System Center 2012 R2 Configuration Manager Toolkit.   
+(https://www.microsoft.com/en-us/download/details.aspx?id=50012)
+
+Because the debugging needs a lot of performance, it should be deactivated after the analysis.
+
+REG delete "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Diagnostics" /v GPSvcDebugLevel
