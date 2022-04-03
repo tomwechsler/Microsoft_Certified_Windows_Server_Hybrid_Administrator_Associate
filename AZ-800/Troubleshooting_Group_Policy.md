@@ -1,19 +1,19 @@
 Using GPRESULT to list applied policies (use the command prompt)
 -----------
 
-gpresult /s ComputerName /user Domain\UserName /r
+gpresult /s ComputerName /user Domain\UserName /r  
 Lists the summary of applied GPOs when the specified user is logged on to the specified computer.
 
-gpresult /s ComputerName /user Domain\UserName /r /scope user
+gpresult /s ComputerName /user Domain\UserName /r /scope user  
 Lists only user policies in the above report. Computer policies are omitted.
 
-gpresult /s ComputerName /user Domain\UserName /h gpreport.html
+gpresult /s ComputerName /user Domain\UserName /h gpreport.html  
 Generates the same report as in the first example, but saves it in an HTML file.
 
-gpresult /s ComputerName /u domain\UserCred /p p@ssW23 /user Domain\UserName /r
+gpresult /s ComputerName /u domain\UserCred /p p@ssW23 /user Domain\UserName /r  
 Generates the same report as the first example, but uses the specified credentials to run the command.
 
-gpresult /s ComputerName /user Domain\UserName /z > policy.txt
+gpresult /s ComputerName /user Domain\UserName /z > policy.txt  
 Generates a very detailed report with user and computer policy settings and saves it to a text file.
 
 
