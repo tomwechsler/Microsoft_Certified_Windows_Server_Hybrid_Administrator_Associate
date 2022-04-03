@@ -13,10 +13,12 @@ nltest /sc_query:tomrocks.local
 
 **On a domain controller, you can do the following tests:**
 
-(dcdiag /s:"DomainController")  #Specifies the name of the server to run the command against.  
+dcdiag /s:"DomainController"  
+(Specifies the name of the server to run the command against.)
 dcdiag /s:dc02
 
-dcdiag /e /v (/e Tests all the servers in the enterprise, /v Verbose)
+dcdiag /e /v  
+(/e Tests all the servers in the enterprise, /v Verbose)
 
 dcdiag /DnsRecordRegistration  
 (Performs the /DnsBasic tests, and also checks if the address (A), canonical name (CNAME) and well-known service (SRV) resource records are registered. In addition, creates an inventory report based on the test results.)
