@@ -11,7 +11,7 @@ nltest /query
 
 nltest /sc_query:tomrocks.local
 
-Using GPRESULT to list applied policies (use the command prompt)
+Using GPRESULT to list applied policies (use the command prompt).
 -----------
 
 gpresult /s ComputerName /user Domain\UserName /r  
@@ -30,7 +30,7 @@ gpresult /s ComputerName /user Domain\UserName /z > policy.txt
 Generates a very detailed report with user and computer policy settings and saves it to a text file.
 
 
-Resetting the Default Domain Policy and/or the Default Domain Controller Policy (use the command prompt)
+Resetting the Default Domain Policy and/or the Default Domain Controller Policy (use the command prompt).
 ---------
 
 dcgpofix /target:Domain  
