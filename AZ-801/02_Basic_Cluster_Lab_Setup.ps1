@@ -1,6 +1,6 @@
-﻿##NOTE:  The commands below assume a machine that is on the network and attached to an AD domain.
-##NOTE:  Run this script from MYDESKTOP
-##NOTE:  Start with servers powered on.
+##NOTE:The commands below assume a machine that is on the network and attached to an AD domain.
+##NOTE:Run this script from MYDESKTOP (this is the management VM in your domain)
+##NOTE:Start with servers powered on.
 
 Install-WindowsFeature -ComputerName file01 FS-FileServer,FS-iSCSITarget-Server -IncludeAllSubfeature -IncludeManagementTools -Restart
 
