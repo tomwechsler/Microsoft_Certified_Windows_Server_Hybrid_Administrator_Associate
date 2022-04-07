@@ -1,6 +1,6 @@
-##NOTE:The commands below assume a machine that is on the network and attached to an AD domain.
-##NOTE:Run this script from mgm01 (this is the management VM in your domain)
-##NOTE:Start with servers powered on.
+#The commands below assume a machine that is on the network and attached to an AD domain.
+#Run this script from mgm01 (this is the management VM in your domain)
+#Start with servers powered on.
 
 Install-WindowsFeature -ComputerName file01 FS-FileServer,FS-iSCSITarget-Server -IncludeAllSubfeature -IncludeManagementTools -Restart
 
@@ -26,6 +26,6 @@ Invoke-Command -ComputerName clus01,clus02 -ScriptBlock { Get-iscsisession | Reg
 ##IMPORTANT FROM ONE SERVER!!!
 ##Bring the disk online
 ##Initialize the disk
-##Format the disk | Q:
+##Format the disk | Q: (this will be the quorum disk)
 
 New-Cluster -Name primecluster -Node clus01,clus02 -StaticAddress 192.168.3.148
