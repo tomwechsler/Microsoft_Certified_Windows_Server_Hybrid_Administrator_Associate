@@ -1,6 +1,6 @@
-##NOTE:The commands below assume a machine that is on the network and attached to an AD domain.
-##NOTE:Run these commands from the host machine
-##NOTE:Start with machines powered off.
+#The commands below assume a machine that is on the network and attached to an AD domain.
+#Run these commands from the host machine
+#Start with machines powered off.
 
 $cred = Get-Credential
 Set-VMProcessor -VMName clus01,clus02 -ExposeVirtualizationExtensions $true
