@@ -1,5 +1,5 @@
 ##NOTE:The commands below assume a machine that is on the network and attached to an AD domain.
-##NOTE:Run this script from MYDESKTOP (this is the management VM in your domain)
+##NOTE:Run this script from mgm01 (this is the management VM in your domain)
 ##NOTE:Start with servers powered on.
 
 Install-WindowsFeature -ComputerName file01 FS-FileServer,FS-iSCSITarget-Server -IncludeAllSubfeature -IncludeManagementTools -Restart
@@ -28,4 +28,4 @@ Invoke-Command -ComputerName clus01,clus02 -ScriptBlock { Get-iscsisession | Reg
 ##Initialize the disk
 ##Format the disk | Q:
 
-New-Cluster -Name clustera -Node clus01,clus02 -StaticAddress 192.168.3.148
+New-Cluster -Name primecluster -Node clus01,clus02 -StaticAddress 192.168.3.148
