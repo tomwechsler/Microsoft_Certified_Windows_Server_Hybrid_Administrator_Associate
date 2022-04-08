@@ -13,4 +13,4 @@ New-NetFirewallRule NetFirewallRule -DisplayName "Allow All Traffic" -Direction 
 New-NetFirewallRule NetFirewallRule -DisplayName "Allow All Traffic" -Direction Inbound -Action Allow
 
 #Set power management to maximum performance
-powercfg /s 8c5e7fda-e8bf-4a96-9a859a85-a6e23a8c635ca6e23a8c635c
+powercfg /s 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c
