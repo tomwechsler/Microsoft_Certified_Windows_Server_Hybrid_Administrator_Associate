@@ -24,9 +24,9 @@ Invoke-Command -ComputerName sitebfile01 -ScriptBlock { Add-iSCSIVirtualDiskTarg
 Invoke-Command -ComputerName sitebfile01 -ScriptBlock { New-iSCSIVirtualDisk -Path "C:\iscsi-siteblun4log.vhdx" -Description "iscsi-siteblun4log" -Size 10GB }
 Invoke-Command -ComputerName sitebfile01 -ScriptBlock { Add-iSCSIVirtualDiskTargetMapping -TargetName "iscsi-sitebtarget1" -Path "c:\iscsi-siteblun4log.vhdx" }
 
-Invoke-Command -ComputerName file1 -ScriptBlock { New-iSCSIVirtualDisk -Path "C:\iscsi-lun4log.vhdx" -Description "iscsi-lun4log" -Size 10GB }
-Invoke-Command -ComputerName file1 -ScriptBlock { Add-iSCSIVirtualDiskTargetMapping -TargetName "iscsi-target1" -Path "c:\iscsi-lun4log.vhdx" }
+Invoke-Command -ComputerName file01 -ScriptBlock { New-iSCSIVirtualDisk -Path "C:\iscsi-lun4log.vhdx" -Description "iscsi-lun4log" -Size 10GB }
+Invoke-Command -ComputerName file01 -ScriptBlock { Add-iSCSIVirtualDiskTargetMapping -TargetName "iscsi-target1" -Path "c:\iscsi-lun4log.vhdx" }
 
-Invoke-Command -ComputerName cluster1,cluster2,sitebclus01,sitebclus02 -ScriptBlock { Install-WindowsFeature Storage-Replica -IncludeAllSubfeature -IncludeManagementTools -Restart }
+Invoke-Command -ComputerName clus01,clus02,sitebclus01,sitebclus02 -ScriptBlock { Install-WindowsFeature Storage-Replica -IncludeAllSubfeature -IncludeManagementTools -Restart }
 
 #The disks created above will need to be brought online, initialized, and formatted in order to use with Storage Replica.
