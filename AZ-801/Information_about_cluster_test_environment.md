@@ -1,13 +1,13 @@
-**Network**  
+**Network:**  
 IP range 192.168.3.0/24 (Nat Switch)  
 Gateway: 192.168.3.2 (Nat Switch Gateway)  
 
-**Domain**  
+**Domain:**  
 Domain: prime.pri  
 Clustername: primecluster  
 
-**Host names and purpose**  
-dc01		192.168.3.10	Domaincontroller					Windows Server Datacenter Core 2022 Evaluation  
+**Host names and purpose:**  
+| dc01|		| 192.168.3.10|	|Domaincontroller|					|Windows Server Datacenter Core 2022 Evaluation|  
 mgm01		192.168.3.100	Management System					Windows 10 Enterprise Evaluation  
 
 clus01		192.168.3.20	clusternode							Windows Server Datacenter Core 2022 Evaluation  
