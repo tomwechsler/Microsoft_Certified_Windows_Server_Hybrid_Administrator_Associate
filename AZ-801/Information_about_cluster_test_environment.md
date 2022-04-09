@@ -7,7 +7,7 @@ Domain: prime.pri
 Clustername: primecluster  
 
 **Host names and purpose:**  
-
+|   |   |   |   |
 |---|---|---|---|
 | dc01  | 192.168.3.10  | Domaincontroller  |  Windows Server Datacenter Core 2022 Evaluation |
 |  mgm01 | 192.168.3.100  | Management System  | Windows 10 Enterprise Evaluation   |
