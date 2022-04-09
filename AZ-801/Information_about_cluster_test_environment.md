@@ -10,7 +10,7 @@ Clustername: primecluster
 | Name  | IP-Address  | Purpose  | Operating system  |
 |---|---|---|---|
 | dc01  | 192.168.3.10  | Domaincontroller  |  Windows Server Datacenter Core 2022 Evaluation |
-|  mgm01 | 192.168.3.100  | Management System  | Windows 10 Enterprise Evaluation   |
+| mgm01 | 192.168.3.100  | Management System  | Windows 10 Enterprise Evaluation   |
 |   |   |   |   |
 | clus01 |  192.168.3.20 | clusternode  |  Windows Server Datacenter Core 2022 Evaluation |
 | clus02  | 192.168.3.21 | clusternode  | Windows Server Datacenter Core 2022 Evaluation  |
