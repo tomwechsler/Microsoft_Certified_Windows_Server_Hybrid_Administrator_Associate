@@ -22,3 +22,8 @@ hclus01		192.168.3.40	clusternode							Windows Server Datacenter Core 2022 Eval
 hclus02		192.168.3.41	clusternode							Windows Server Datacenter Core 2022 Evaluation  
 hclus03		192.168.3.42	clusternode							Windows Server Datacenter Core 2022 Evaluation  
 hclus04		192.168.3.43	clusternode							Windows Server Datacenter Core 2022 Evaluation  
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
