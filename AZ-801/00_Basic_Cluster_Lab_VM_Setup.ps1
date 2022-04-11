@@ -1,6 +1,6 @@
-﻿Get-NetIPInterface
+Get-NetIPInterface
 
-Set-NetIPInterface -InterfaceIndex "Ethernet" -Dhcp Disabled
+Set-NetIPInterface -InterfaceAlias "Ethernet" -Dhcp Disabled
 
 New-NetIPAddress -InterfaceAlias "Ethernet" -IPAddress 192.168.3.20 -PrefixLength 24 -DefaultGateway 192.168.3.2
 
