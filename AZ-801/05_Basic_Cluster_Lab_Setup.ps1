@@ -57,4 +57,4 @@ Invoke-Command -VMName hclus01,hclus02,hclus03,hclus04 -Credential $cred -Script
 Invoke-Command -VMName hclus01,hclus02,hclus03,hclus04 -Credential $cred -ScriptBlock { Set-Disk -Number 5 -IsOffline $false | Initialize-Disk } 
 Invoke-Command -VMName hclus01,hclus02,hclus03,hclus04 -Credential $cred -ScriptBlock { Set-Disk -Number 6 -IsOffline $false | Initialize-Disk } 
 
-Invoke-Command -VMName hclus01,hclus02,hclus03,hclus04 -Credential $cred -ScriptBlock { Restart-Computer hclus01,hclus02,hclus03,hclus04 }
+Invoke-Command -VMName hclus01,hclus02,hclus03,hclus04 -Credential $cred -ScriptBlock { Restart-Computer }
