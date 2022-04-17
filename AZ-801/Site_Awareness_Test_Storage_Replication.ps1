@@ -9,6 +9,8 @@ Set-ClusterFaultDomain -Name clus02 -Parent "SiteA"
 Set-ClusterFaultDomain -Name sitebclus01 -Parent "SiteB"
 Set-ClusterFaultDomain -Name sitebclus02 -Parent "SiteB"
 
+Get-ClusterFaultDomain
+
 (Get-Cluster).PreferredSite="SiteA"
 
 #On clus01
