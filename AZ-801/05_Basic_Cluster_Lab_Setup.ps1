@@ -5,7 +5,7 @@
 $cred = Get-Credential   ## Enter an Administrator credential in the AD domain.
 Set-VMProcessor -VMName hclus01,hclus02,hclus03,hclus04 -ExposeVirtualizationExtensions $true
 
-$rootPath = "H:\Windows Server 2022"
+$rootPath = "D:\Windows Server 2022"
 $S2DVMNames = @("hclus01","hclus02","hclus03","hclus04")
 $S2DVMNames | ForEach-Object {
 
