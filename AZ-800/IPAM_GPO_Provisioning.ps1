@@ -1,0 +1,1 @@
+﻿Invoke-IpamGpoProvisioning -Domain prime.pri -GpoPrefixName IPAM -IpamServerFqdn ipam.prime.pri
