@@ -68,7 +68,7 @@ https://docs.microsoft.com/en-us/azure/security/fundamentals/encryption-models
 
 https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-overview
 
-**Implement and manage Windows Server high availability**
+**Implement and manage Windows Server high availability:**
 
 https://docs.microsoft.com/en-us/azure/virtual-machines/disks-shared
 
@@ -104,7 +104,7 @@ https://docs.microsoft.com/en-us/azure-stack/hci/concepts/storage-spaces-direct-
 
 https://docs.microsoft.com/en-us/windows-server/storage/storage-spaces/deploy-storage-spaces-direct
 
-**Implement disaster recovery**
+**Implement disaster recovery:**
 
 https://docs.microsoft.com/en-us/azure/backup/backup-windows-with-mars-agent
 
@@ -134,7 +134,7 @@ https://docs.microsoft.com/en-us/azure/site-recovery/azure-to-azure-about-networ
 
 https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/manage/set-up-hyper-v-replica
 
-**Migrate servers and workloads**
+**Migrate servers and workloads:**
 
 https://docs.microsoft.com/en-us/windows-server/storage/storage-migration-service/cutover
 
@@ -156,7 +156,7 @@ https://docs.microsoft.com/en-us/virtualization/windowscontainers/quick-start/bu
 
 https://docs.microsoft.com/en-us/windows-server/get-started/upgrade-migrate-roles-features
 
-**Monitor and troubleshoot Windows Server environments**
+**Monitor and troubleshoot Windows Server environments:**
 
 https://docs.microsoft.com/en-us/troubleshoot/windows-server/performance/performance-overview
 
