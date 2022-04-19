@@ -24,6 +24,9 @@ More helpful information directly from Microsoft, divided into the functional gr
 -------------------
 
 **Secure Windows Server On-premises and Hybrid Infrastructures:**  
+https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/enable-exploit-protection
+
+https://docs.microsoft.com/de-de/mem/configmgr/protect/deploy-use/use-device-guard-with-configuration-manager
 
 
 
