@@ -28,6 +28,7 @@ https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/enable
 
 https://docs.microsoft.com/de-de/mem/configmgr/protect/deploy-use/use-device-guard-with-configuration-manager
 
+https://docs.microsoft.com/en-us/mem/configmgr/protect/deploy-use/defender-advanced-threat-protection
 
 
 **More helpful links:**  
