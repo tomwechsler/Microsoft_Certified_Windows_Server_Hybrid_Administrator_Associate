@@ -30,6 +30,51 @@ https://docs.microsoft.com/de-de/mem/configmgr/protect/deploy-use/use-device-gua
 
 https://docs.microsoft.com/en-us/mem/configmgr/protect/deploy-use/defender-advanced-threat-protection
 
+https://docs.microsoft.com/en-us/windows/security/identity-protection/credential-guard/credential-guard-manage
+
+https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-smartscreen/microsoft-defender-smartscreen-overview
+
+https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-security-configuration-framework/windows-security-baselines
+
+https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/best-practices-for-securing-active-directory
+
+https://docs.microsoft.com/en-us/azure/active-directory/authentication/tutorial-configure-custom-password-protection
+
+https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/appendix-c--protected-accounts-and-groups-in-active-directory
+
+https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/securing-domain-controllers-against-attack
+
+https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/manage/how-to-configure-protected-accounts
+
+https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/best-practices-for-securing-active-directory
+
+https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/appendix-h--securing-local-administrator-accounts-and-groups
+
+https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/appendix-b--privileged-accounts-and-groups-in-active-directory
+
+https://docs.microsoft.com/en-us/defender-for-identity/what-is
+
+https://docs.microsoft.com/en-us/azure/sentinel/data-connectors-reference?tabs=LAA#windows-security-events-via-ama
+
+https://docs.microsoft.com/en-us/azure/defender-for-cloud/defender-for-servers-introduction
+
+https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-firewall/best-practices-configuring
+
+https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-firewall/restrict-server-access-to-members-of-a-group-only
+
+https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-firewall/create-an-authentication-request-rule
+
+https://docs.microsoft.com/en-us/azure/security/fundamentals/encryption-models
+
+https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-overview
+
+**Implement and manage Windows Server high availability**
+
+https://docs.microsoft.com/en-us/azure/virtual-machines/disks-shared
+
+https://docs.microsoft.com/en-us/azure/virtual-machines/windows/tutorial-availability-sets
+
+
 
 **More helpful links:**  
 https://docs.microsoft.com/en-us/windows-server/failover-clustering/bitlocker-on-csv-in-ws-2022
