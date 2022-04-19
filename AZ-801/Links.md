@@ -74,6 +74,68 @@ https://docs.microsoft.com/en-us/azure/virtual-machines/disks-shared
 
 https://docs.microsoft.com/en-us/azure/virtual-machines/windows/tutorial-availability-sets
 
+https://docs.microsoft.com/en-us/windows-server/failover-clustering/create-failover-cluster
+
+https://docs.microsoft.com/en-us/windows-server/storage/storage-replica/stretch-cluster-replication-using-shared-storage
+
+https://docs.microsoft.com/en-us/windows-server/storage/storage-replica/cluster-to-cluster-azure-cross-region
+
+https://docs.microsoft.com/en-us/windows-server/failover-clustering/clustering-requirements
+
+https://docs.microsoft.com/en-us/windows-server/storage/storage-replica/cluster-to-cluster-azure-cross-region
+
+https://docs.microsoft.com/en-us/windows-server/failover-clustering/clustering-requirements
+
+https://docs.microsoft.com/en-us/windows-server/failover-clustering/manage-cluster-quorum
+
+https://docs.microsoft.com/en-us/windows-server/failover-clustering/failover-clustering-overview
+
+https://docs.microsoft.com/en-us/azure-stack/hci/deploy/cluster-set
+
+https://docs.microsoft.com/en-us/windows-server/failover-clustering/sofs-overview
+
+https://docs.microsoft.com/en-us/windows-server/failover-clustering/deploy-cloud-witness
+
+https://docs.microsoft.com/en-us/troubleshoot/windows-server/high-availability/cluster-information-ip-address-failover
+
+https://docs.microsoft.com/en-us/windows-server/failover-clustering/cluster-aware-updating
+
+https://docs.microsoft.com/en-us/azure-stack/hci/concepts/storage-spaces-direct-overview
+
+https://docs.microsoft.com/en-us/windows-server/storage/storage-spaces/deploy-storage-spaces-direct
+
+**Implement disaster recovery**
+
+https://docs.microsoft.com/en-us/azure/backup/backup-windows-with-mars-agent
+
+https://docs.microsoft.com/en-us/azure/backup/backup-azure-restore-windows-server
+
+https://docs.microsoft.com/en-us/azure/backup/backup-mabs-whats-new-mabs
+
+https://docs.microsoft.com/en-us/azure/backup/backup-azure-microsoft-azure-backup
+
+https://docs.microsoft.com/en-us/azure/backup/backup-instant-restore-capability
+
+https://docs.microsoft.com/en-us/azure/backup/backup-azure-arm-userestapi-createorupdatepolicy
+
+https://docs.microsoft.com/en-us/azure/backup/backup-client-automation
+
+https://docs.microsoft.com/en-us/azure/virtual-machines/backup-and-disaster-recovery-for-azure-iaas-disks
+
+https://docs.microsoft.com/en-us/azure/backup/backup-azure-arm-restore-vms
+
+https://docs.microsoft.com/en-us/azure/site-recovery/site-recovery-manage-network-interfaces-on-premises-to-azure
+
+https://docs.microsoft.com/en-us/azure/site-recovery/site-recovery-create-recovery-plans
+
+https://docs.microsoft.com/en-us/azure/site-recovery/azure-to-azure-about-networking
+
+https://docs.microsoft.com/en-us/azure/site-recovery/azure-to-azure-about-networking
+
+https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/manage/set-up-hyper-v-replica
+
+**Migrate servers and workloads**
+
 
 
 **More helpful links:**  
