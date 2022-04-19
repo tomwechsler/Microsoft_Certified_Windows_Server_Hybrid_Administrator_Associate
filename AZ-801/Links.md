@@ -23,10 +23,11 @@ https://www.thomasmaurer.ch/2022/03/az-801-exam-study-guide-configuring-windows-
 More helpful information directly from Microsoft, divided into the functional groups (Skills measured -coming soon)!
 -------------------
 
-**Secure Windows Server On-premises and Hybrid Infrastructures:**
+**Secure Windows Server On-premises and Hybrid Infrastructures:**  
 
 
-**More helpful links:**
+
+**More helpful links:**  
 https://docs.microsoft.com/en-us/windows-server/failover-clustering/bitlocker-on-csv-in-ws-2022
 
 https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/customize-controlled-folders?view=o365-worldwide
