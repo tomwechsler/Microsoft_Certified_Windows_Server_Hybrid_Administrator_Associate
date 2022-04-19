@@ -20,7 +20,7 @@ Thomas Maurer's Study Guide:
 -------------------
 https://www.thomasmaurer.ch/2022/03/az-801-exam-study-guide-configuring-windows-server-hybrid-advanced-services/
 
-More helpful information directly from Microsoft, divided into the functional groups (Skills measured -coming soon)!
+More helpful information directly from Microsoft, divided into the functional groups (Skills measured)!
 -------------------
 
 **Secure Windows Server On-premises and Hybrid Infrastructures:**  
@@ -136,7 +136,57 @@ https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/manage/se
 
 **Migrate servers and workloads**
 
+https://docs.microsoft.com/en-us/windows-server/storage/storage-migration-service/cutover
 
+https://docs.microsoft.com/en-us/windows-server/storage/storage-migration-service/overview
+
+https://docs.microsoft.com/en-us/azure/storage/files/storage-files-migration-overview
+
+https://docs.microsoft.com/en-us/azure/migrate/deploy-appliance-script
+
+https://docs.microsoft.com/en-us/azure/migrate/how-to-set-up-appliance-physical
+
+https://docs.microsoft.com/en-us/azure/migrate/how-to-set-up-appliance-physical
+
+https://docs.microsoft.com/en-us/azure/migrate/how-to-migrate
+
+https://docs.microsoft.com/en-us/iis/publish/using-web-deploy/migrate-a-web-site-from-iis-60-to-iis-7-or-above
+
+https://docs.microsoft.com/en-us/virtualization/windowscontainers/quick-start/building-sample-app
+
+https://docs.microsoft.com/en-us/windows-server/get-started/upgrade-migrate-roles-features
+
+**Monitor and troubleshoot Windows Server environments**
+
+https://docs.microsoft.com/en-us/troubleshoot/windows-server/performance/performance-overview
+
+https://docs.microsoft.com/en-us/windows-server/manage/system-insights/overview
+
+https://docs.microsoft.com/en-us/windows-server/manage/windows-admin-center/azure/azure-monitor
+
+https://docs.microsoft.com/en-us/windows-server/manage/system-insights/overview
+
+https://docs.microsoft.com/en-us/azure/azure-monitor/agents/agent-windows
+
+https://docs.microsoft.com/en-us/azure/azure-monitor/agents/agent-windows
+
+https://docs.microsoft.com/en-us/azure/azure-monitor/agents/diagnostics-extension-overview
+
+https://docs.microsoft.com/en-us/troubleshoot/windows-server/networking/networking-overview
+
+https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/boot-error-troubleshoot
+
+https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/performance-diagnostics
+
+https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/support-agent-extensions
+
+https://docs.microsoft.com/en-us/azure/virtual-machines/windows/disk-encryption-overview
+
+https://docs.microsoft.com/en-us/troubleshoot/windows-server/identity/reset-directory-services-restore-mode-admin-pwd
+
+https://docs.microsoft.com/en-us/azure/active-directory/hybrid/tshoot-connect-pass-through-authentication
+
+https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/deploy/troubleshooting-domain-controller-deployment
 
 **More helpful links:**  
 https://docs.microsoft.com/en-us/windows-server/failover-clustering/bitlocker-on-csv-in-ws-2022
