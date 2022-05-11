@@ -1,7 +1,7 @@
 ﻿#Manage FSMO roles
 
 #Discover FSMO role holders
-netdom /query fsmo
+netdom query fsmo
 
 #Determine the operation master roles
 Get-ADDomain | Select-Object InfrastructureMaster, PDCEmulator, RIDMaster | Format-List
