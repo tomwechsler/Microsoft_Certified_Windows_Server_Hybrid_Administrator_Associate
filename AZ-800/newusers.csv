@@ -1,0 +1,3 @@
+firstname;lastname;username;department;password;ou
+Jon;Prime;jon.prime;Technik;P@ssw0rd;OU=Technik,DC=prime,DC=pri
+Tim;Jones;tim.jones;HR;P@ssw0rd;OU=HR,DC=prime,DC=pri

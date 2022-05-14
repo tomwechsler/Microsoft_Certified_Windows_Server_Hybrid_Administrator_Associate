@@ -1,0 +1,6 @@
+Name;samAccountName;ParentOU;Group
+Manager1;Manager1;OU=Managers,DC=prime,DC=pri;GG_Managers
+Manager2;Manager2;OU=Managers,DC=prime,DC=pri;GG_Managers
+Manager3;Manager3;OU=Managers,DC=prime,DC=pri;GG_Managers
+Manager4;Manager4;OU=Managers,DC=prime,DC=pri;GG_Managers
+Manager5;Manager5;OU=Managers,DC=prime,DC=pri;GG_Managers
