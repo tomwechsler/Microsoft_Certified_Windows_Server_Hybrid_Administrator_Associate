@@ -1,0 +1,22 @@
+Migrates SYSvol replication from File Replication Service (FRS) to Distributed File System (DFS) Replication!
+-------------------------------------------------------------------------------------------------------------
+
+Examples
+--------
+
+To set the global migration state to Prepared (1) and to initiate migration or to rollback from the Prepared state:
+dfsrmig /setglobalstate 1
+
+To set the global migration state to Start (0) and to initiate rollback to the Start state:
+dfsrmig /setglobalstate 0
+
+To display the global migration state, type:
+dfsrmig /getglobalstate
+
+To display information about whether the local migration states on all the domain controllers match the global migration 
+state and if there are any local migration states where the local state doesn't match the global state, type:
+dfsrmig /GetMigrationState
+
+To display help at the command prompt:
+dfsrmig
+dfsrmig /?
