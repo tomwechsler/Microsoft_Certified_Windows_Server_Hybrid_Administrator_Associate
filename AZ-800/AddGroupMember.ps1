@@ -7,7 +7,7 @@ Get-ADGroup "Marketing"
 
 #Create a new group with more information
 New-ADGroup -Name 'Technik' `
--Description 'Sicherheitsgruppe fuer alle Technik Benutzer' `
+-Description 'Security group for all Technik users'' `
 -DisplayName 'Technik' `
 -GroupCategory Security `
 -GroupScope Global `
@@ -22,7 +22,7 @@ Get-ADGroupMember -Identity Technik
 
 #This works even better
 New-ADGroup -Name 'Manager' `
--Description 'Sicherheitsgruppe fuer alle Manager' `
+-Description 'Security group for all managers' `
 -DisplayName 'Manager' `
 -GroupCategory Security `
 -GroupScope Global `
