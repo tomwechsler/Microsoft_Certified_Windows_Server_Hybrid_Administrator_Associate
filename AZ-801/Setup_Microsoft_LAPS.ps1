@@ -15,7 +15,7 @@ Set-AdmPwdComputerSelfPermission -OrgUnit LAPSCLIENT
 #The extended permissions are only applied to the Domain Admins group
 Find-AdmPwdExtendedRights -Identity "LAPSCLIENT"
 
-#We need to grant the same permissions to “ITAdmins” Security group
+#We need to grant the same permissions to "ITAdmins" Security group
 Set-AdmPwdReadPasswordPermission -Identity "LAPSCLIENT" -AllowedPrincipals "ITAdmins"
 
 #We can verify now the permissions
