@@ -1,4 +1,4 @@
-﻿#1. Create Helpdesk security group in AD.
+#1. Create a security group with the name Helpdesk in AD.
 #2. Add user to the group
 
 #We start a "normal" remote connection and check how many cmdlets are available
