@@ -1,5 +1,5 @@
 #1. Create a security group with the name Helpdesk in AD.
-#2. Add users to the Helpdesk group
+#2. Add a user (or users) to the group
 
 #We start a "normal" remote connection and check how many cmdlets are available
 Enter-PSSession -ComputerName dc01
@@ -14,9 +14,6 @@ New-Item -ItemType Directory Helpdesk
 
 #Navigate to the directory
 Set-Location Helpdesk
-
-#Creates a new module manifest
-New-ModuleManifest .\Helpdesk.psd1
 
 #Create a new directory
 New-Item -ItemType Directory RoleCapabilities
@@ -44,6 +41,9 @@ Register-PSSessionConfiguration -Name Helpdesk -Path .\Helpdesk.pssc
 
 #We need to restart the WinRM Service
 Restart-Service WinRM
+
+#Gets the registered session configurations on the computer
+Get-PSSessionConfiguration
 
 #We establish a connection
 Enter-PSSession -ComputerName dc01 -ConfigurationName Helpdesk -Credential grid\james.west
