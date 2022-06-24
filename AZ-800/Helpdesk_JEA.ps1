@@ -1,5 +1,5 @@
 #1. Create a security group with the name Helpdesk in AD.
-#2. Add user to the group
+#2. Add users to the Helpdesk group
 
 #We start a "normal" remote connection and check how many cmdlets are available
 Enter-PSSession -ComputerName dc01
