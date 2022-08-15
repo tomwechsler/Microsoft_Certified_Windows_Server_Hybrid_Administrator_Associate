@@ -1,0 +1,21 @@
+az login
+
+az account list --output table
+
+az group create --name myResourceGroup --location westeurope
+
+az acr create --resource-group myResourceGroup --name twacr4625 --sku Basic
+
+az acr login --name twacr4625
+
+docker image ls
+
+docker tag mcr.microsoft.com/windows/nanoserver:ltsc2022 twacr4625.azurecr.io/azureacr/nanoserver:v1
+
+docker push twacr4625.azurecr.io/azureacr/nanoserver:v1
+
+az acr repository list --name twacr4625 --output table
+
+docker run twacr4625.azurecr.io/azureacr/nanoserver:v1
+
+az group delete --name myResourceGroup
