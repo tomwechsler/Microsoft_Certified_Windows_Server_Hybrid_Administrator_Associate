@@ -1,0 +1,2 @@
+FROM mcr.microsoft.com/windows/servercore/iis:windowsservercore-ltsc2022
+RUN echo "Hello World - Dockerfile" > c:\inetpub\wwwroot\index.html
