@@ -252,6 +252,28 @@ https://docs.microsoft.com/en-us/windows-server/storage/file-server/ntfs-overvie
 More helpful links:
 -------------------
 
+https://docs.microsoft.com/en-us/azure/active-directory-domain-services/overview
+
+https://docs.microsoft.com/en-us/azure/active-directory-domain-services/join-windows-vm
+
+https://docs.microsoft.com/en-us/azure/active-directory/hybrid/whatis-azure-ad-connect
+
+https://docs.microsoft.com/en-us/azure/active-directory/cloud-sync/what-is-cloud-sync
+
+https://de.linkedin.com/learning/microsoft-365-planen-bereitstellen-und-administrieren-von-office-365
+
+https://de.linkedin.com/learning/mcsa-windows-server-2016-70-742-teil-3-gruppenrichtlinien
+
+https://github.com/tomwechsler
+
+https://docs.microsoft.com/de-de/azure/azure-arc/overview
+
+https://docs.microsoft.com/en-us/azure/governance/policy/concepts/guest-configuration
+
+https://docs.microsoft.com/en-us/azure/automation/automation-runbook-types
+
+https://docs.microsoft.com/en-us/azure/automation/automation-dsc-getting-started
+
 https://docs.microsoft.com/de-de/windows-server/virtualization/hyper-v/system-requirements-for-hyper-v-on-windows
 
 https://docs.microsoft.com/de-de/virtualization/hyper-v-on-windows/reference/hyper-v-requirements
