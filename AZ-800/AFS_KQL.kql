@@ -1,0 +1,4 @@
+Event
+| where (Source == "Microsoft-FileSync-Agent")
+           or (Source == "Microsoft-FileSync-Management")
+| where EventLevelName != "Informational"
