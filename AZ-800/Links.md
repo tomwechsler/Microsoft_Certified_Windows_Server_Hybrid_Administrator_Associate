@@ -310,5 +310,10 @@ https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpn-device
 
 https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-about
 
+https://learn.microsoft.com/en-us/azure/storage/files/storage-how-to-create-file-share
 
+https://learn.microsoft.com/en-us/azure/storage/file-sync/file-sync-deployment-guide
 
+https://learn.microsoft.com/en-us/azure/storage/files/files-manage-namespaces
+
+https://learn.microsoft.com/en-us/azure/storage/files/files-reserve-capacity
