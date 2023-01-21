@@ -1,6 +1,6 @@
 ﻿#On the mgm01 System
 #Kerberos delegation to configure Live-Migration in Kerberos mode for Windows Server 2022
-Import-Module ActiveDirectory
+Import-Module "ActiveDirectory"
 
 #Variables
 $HVHost01 = "HCLUS01"
