@@ -7,7 +7,7 @@ nslookup domain_name
 ping prime.pri  
 (the domain should be resolved with the IP address of a domain controller)
 
-nltest /query  
+nltest /query  #Information about the trusts and the relationship of a computer to the domain
 
 nltest /sc_query:tomrocks.local
 
